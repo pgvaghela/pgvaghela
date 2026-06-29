@@ -33,8 +33,6 @@ Open to full-time roles, internships, and interesting collaborations.
 
 <br />
 
-<div align="center">
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pgvaghela&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pgvaghela&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub streak" />
+</p>
