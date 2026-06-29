@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpeg" width="130" style="border-radius: 50%;" alt="Priyansh Vaghela" />
+<img src="./profile.jpeg" width="130" height="195" style="border-radius: 50%; object-fit: cover; object-position: center top;" alt="Priyansh Vaghela" />
 
 # Hi, I'm Priyansh Vaghela
 
