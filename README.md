@@ -1,11 +1,13 @@
-<table>
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="170" align="center" valign="middle">
-      <img src="./profile.jpeg" width="150" alt="Priyansh Vaghela" style="border-radius: 50%;" />
+    <td align="center" valign="middle">
+      <img src="./profile.jpeg" width="180" alt="Priyansh Vaghela" style="border-radius: 50%;" />
     </td>
-    <td valign="middle">
-      <h2>Hi, I'm Priyansh Vaghela</h2>
-      <p><strong>CS @ University of Arizona · Software Engineer</strong></p>
+    <td align="left" valign="middle">
+      <h1>Hi, I'm Priyansh Vaghela</h1>
+      <h3>CS @ University of Arizona · Software Engineer</h3>
       <br />
       <a href="https://github.com/pgvaghela/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
       <a href="https://linkedin.com/in/priyanshvaghela"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,6 +15,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -34,5 +38,5 @@ Open to full-time roles, internships, and interesting collaborations.
 <br />
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pgvaghela&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pgvaghela&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
