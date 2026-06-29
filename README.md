@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/pgvaghela.png" width="130" style="border-radius: 50%;" alt="Priyansh Vaghela" />
+<img src="./profile.jpeg" width="130" style="border-radius: 50%;" alt="Priyansh Vaghela" />
 
 # Hi, I'm Priyansh Vaghela
 
