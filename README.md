@@ -1,16 +1,19 @@
-<div align="center">
-
-<img src="./profile.jpeg" width="130" height="195" style="border-radius: 50%; object-fit: cover; object-position: center top;" alt="Priyansh Vaghela" />
-
-# Hi, I'm Priyansh Vaghela
-
-**CS @ University of Arizona · Software Engineer**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/pgvaghela/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshvaghela)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgvaghela20@gmail.com)
-
-</div>
+<table>
+  <tr>
+    <td width="150" valign="top">
+      <img src="./profile.jpeg" width="130" height="130" style="border-radius: 50%; object-fit: cover; object-position: center top;" alt="Priyansh Vaghela" />
+    </td>
+    <td valign="middle">
+      <h1>Hi, I'm Priyansh Vaghela</h1>
+      <p><strong>CS @ University of Arizona · Software Engineer</strong></p>
+      <p>
+        <a href="https://github.com/pgvaghela/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://linkedin.com/in/priyanshvaghela"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:pgvaghela20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
