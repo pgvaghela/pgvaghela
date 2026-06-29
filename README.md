@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/pgvaghela.png" width="130" style="border-radius: 50%;" alt="Priyansh Vaghela" />
+
 # Hi, I'm Priyansh Vaghela
 
 **CS @ University of Arizona · Software Engineer**
@@ -31,7 +33,6 @@ Open to full-time roles, internships, and interesting collaborations.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pgvaghela&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pgvaghela&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
