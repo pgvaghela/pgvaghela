@@ -22,8 +22,6 @@
 
 I build full-stack apps, agentic AI systems, and data-heavy products. Currently a **CS 110 TA** at UA, with past internships at **Quantara AI** and **Micron Technology**.
 
-Open to full-time roles, internships, and interesting collaborations.
-
 <br />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
